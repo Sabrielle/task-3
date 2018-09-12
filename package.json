@@ -1,0 +1,15 @@
+{
+  "name": "task-3",
+  "version": "0.0.1",
+  "description": "Задание 3",
+  "main": "file.js",
+  "scripts": {
+    "start": "node file.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabrielle/task-3.git"
+  },
+  "author": "Anna",
+  "license": "ISC"
+}

@@ -4,4 +4,3 @@
 
 Входные данные находятся в `data/input.json`
 Выходные данные в `data/output.json`
-
